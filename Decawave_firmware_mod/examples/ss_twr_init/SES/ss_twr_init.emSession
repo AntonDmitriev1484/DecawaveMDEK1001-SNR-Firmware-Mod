@@ -62,8 +62,8 @@
  </Watch4>
  <Files>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="42" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../main.c" selected="0" top="20" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="174" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../ss_init_main.c" selected="1" top="164" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="196" useTextEdit="1" openedFrom="C:/Users/soula/OneDrive/Desktop/dwm1001-examples-master/examples/ss_twr_init/ss_init_main.c" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" selected="0" top="177" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="171" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../ss_init_main.c" selected="0" top="152" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="230" useTextEdit="1" openedFrom="C:/Users/soula/OneDrive/Desktop/Programming/Decawave/DecawaveMDEK1001-SNR-Firmware-Mod/examples/ss_twr_init/ss_init_main.c" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" selected="1" top="211" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="145" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/device/nrf52.h" selected="0" top="122" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="28" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/toolchain/system_nrf52.c" selected="0" top="12" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="C:/Users/soula/OneDrive/Desktop/dwm1001-examples-master/nRF5_SDK_14.2.0/components/device/nrf52.h" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/toolchain/system_nrf52.h" selected="0" top="0" codecName="Default"/>
